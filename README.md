@@ -1,1 +1,2 @@
-README
+|tabella|uno|
+|due|tre|
