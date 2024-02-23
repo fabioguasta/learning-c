@@ -1,4 +1,4 @@
-File | Specifica | link
+File | Specifica | |
 ------------ | ------------ | ------------ |
 |<div align="center"> operatori.c </div> |  <div align="center"> gran parte degli operatori in c</div> | [qui](https://github.com/fabioguasta/learning-c/blob/master/operatori.c)
 |<div align="center"> stringhe.c </div> |  <div align="center"> esempi operazioni con stringhe </div> | [qui](https://github.com/fabioguasta/learning-c/blob/master/stringhe.c)
