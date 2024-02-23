@@ -1,0 +1,16 @@
+{
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.env.linux": {},
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "terminal.integrated.fontFamily": "",
+    "terminal.integrated.lineHeight": 1.1,
+    "files.associations": {
+        "types.h": "c",
+        "unistd.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
