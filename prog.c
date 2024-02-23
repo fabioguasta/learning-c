@@ -1,3 +1,6 @@
+/*
+legge e stampa le varie directory presenti nella variabile di ambiente PATH di un sistema Unix-like
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
