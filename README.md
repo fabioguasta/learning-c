@@ -14,6 +14,9 @@ File | Specifica |
 |<div align="center"> creawaitpid.c </div> |  <div align="center"> creazione di un processo e riporto dello stato (terminato o running) </div> 
 |<div align="center"> critical.c </div> |  <div align="center"> esempio di protezione di codice critico </div> 
 |<div align="center"> dir01.c </div> |  <div align="center"> esecuzione del comando ls -l attraverso la execl() </div> 
+|<div align="center"> es-setpgid.c </div> |  <div align="center"> Esempio cambio di identificatore di gruppo </div> 
+|<div align="center"> es-sigint.c </div> |  <div align="center"> Esempio utilizzo SIGINT </div> 
+|<div align="center"> es-sigsegv.c </div> |  <div align="center"> esempio di installazione gestore SIGSEGV </div> 
 |<div align="center"> handler.c </div> |  <div align="center">  invio di un segnale di allarme con gestione personalizzata della routine di gestione del segnale </div> 
 |<div align="center"> inserimentoInCoda.c </div> |  <div align="center"> inserimento in coda alla lista </div> 
 |<div align="center"> liste.c </div> |  <div align="center"> creazione lista con inserimento in testa </div> 
