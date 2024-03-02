@@ -30,5 +30,5 @@ File | Specifica |
 |<div align="center"> sysmacro.h </div> |  <div align="center"> macro per chiamate di sistema </div> 
 |<div align="center"> timeout.c </div> |  <div align="center">  esegue un comando per n secondi </div> 
 |<div align="center"> util.h </div> |  <div align="center"> prototipi funzioni di utilita’ </div> 
-|<div align="center"> zombie.c </div> |  <div align="center">  esempio di creazione di un processo mediante fork(), con terminazione del figlio senza wait da parte del padre </div>
+|<div align="center"> zombie.c </div> |  <div align="center">  esempio di creazione di un processo con fork(), con terminazione del figlio senza wait del padre </div>
 
