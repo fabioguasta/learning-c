@@ -1,5 +1,5 @@
-File | Specifica | |
------------- | ------------ | ------------ |
+File | Specifica | 
+------------ | ------------ | 
 |<div align="center"> operatori.c </div> |  <div align="center"> gran parte degli operatori in c</div> 
 |<div align="center"> stringhe.c </div> |  <div align="center"> esempi operazioni con stringhe </div> 
 |<div align="center"> alarm.c </div> | <div align="center"> esempio utilizzo alarm </div> 
